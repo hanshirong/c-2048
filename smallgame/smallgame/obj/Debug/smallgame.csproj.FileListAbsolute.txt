@@ -1,0 +1,10 @@
+E:\ASP\C#\game\smallgame\smallgame\bin\Debug\smallgame.exe.config
+E:\ASP\C#\game\smallgame\smallgame\bin\Debug\smallgame.exe
+E:\ASP\C#\game\smallgame\smallgame\bin\Debug\smallgame.pdb
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.csprojAssemblyReference.cache
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.Properties.Resources.resources
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.csproj.GenerateResource.cache
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.csproj.CoreCompileInputs.cache
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.exe
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.pdb
+E:\ASP\C#\game\smallgame\smallgame\obj\Debug\smallgame.Form1.resources
